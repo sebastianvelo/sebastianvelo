@@ -12,9 +12,11 @@ https://sebastianvelo.github.io/portfolio/#/
 * 💡 https://app.codesignal.com/profile/sebastianvel
 
 ## 📊 My Stats  
+<div style="display:flex">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianvelo&show_icons=true&locale=en&layout=compact" alt="sebastianvelo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianvelo&show_icons=true&locale=en" alt="sebastianvelo" /></p>
+</div>
 
 Thanks for reading my profile!
 <!--
