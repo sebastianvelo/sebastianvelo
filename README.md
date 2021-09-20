@@ -6,10 +6,10 @@
 https://sebastianvelo.github.io/portfolio/#/ 
 
 ## 📫 How to reach me: 
-* ✉️ sebastian_velo@hotmail.com
-* 🔗 https://www.linkedin.com/in/sebastian-velo/
-* 💻 https://codepen.io/sebastianvelo
-* 💡 https://app.codesignal.com/profile/sebastianvel
+* ✉️ &nbsp; sebastian_velo@hotmail.com
+* 🔗 &nbsp; https://www.linkedin.com/in/sebastian-velo/
+* 💻  &nbsp;https://codepen.io/sebastianvelo
+* 💡 &nbsp; https://app.codesignal.com/profile/sebastianvel
 
 ## 📊 My Stats  
 <div style="display:flex">
