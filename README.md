@@ -1,26 +1,22 @@
-## Hi there 👋   
-# I'm Sebastian!
+# Hi there 👋  I'm Sebastian!
 
-### 💻 I'm currently working as a Software Engineer at MercadoLibre 
+#### 💻 I'm currently working as a Software Engineer at MercadoLibre 
 
-## 🌱 My portfolio  
+## ⚡️ Portfolio
 https://sebastianvelo.github.io/portfolio/#/ 
 
-## 🔗 My LinkedIn  
-https://www.linkedin.com/in/sebastian-velo/
+## 📫 How to reach me: 
+* ✉️ sebastian_velo@hotmail.com
+* 🔗 https://www.linkedin.com/in/sebastian-velo/
+* 💻 https://codepen.io/sebastianvelo
+* 💡 https://app.codesignal.com/profile/sebastianvel
 
-Thanks for reading my profile!
-
+## 📊 My Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianvelo&show_icons=true&locale=en&layout=compact" alt="sebastianvelo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianvelo&show_icons=true&locale=en" alt="sebastianvelo" /></p>
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
+Thanks for reading my profile!
 <!--
 **sebastianvelo/sebastianvelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
