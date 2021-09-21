@@ -16,7 +16,7 @@ https://sebastianvelo.github.io/portfolio/#/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianvelo&show_icons=true&locale=en" alt="sebastianvelo" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianvelo&show_icons=true&locale=en&layout=compact" alt="sebastianvelo" /></p>
 </div>
-
+<br/>
 ### Thanks for reading my profile!
 <!--
 **sebastianvelo/sebastianvelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
