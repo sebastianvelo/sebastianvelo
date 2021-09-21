@@ -5,12 +5,6 @@
 ## ⚡️ Portfolio
 https://sebastianvelo.github.io/portfolio/#/ 
 
-## 📫 How to reach me: 
-* ✉️ &nbsp; sebastian_velo@hotmail.com
-* 🔗 &nbsp; https://www.linkedin.com/in/sebastian-velo/
-* 💻  &nbsp;https://codepen.io/sebastianvelo
-* 💡 &nbsp; https://app.codesignal.com/profile/sebastianvel
-
 ## 📊 My Stats  
 <div style="display:inline-flex">
 
@@ -19,6 +13,11 @@ https://sebastianvelo.github.io/portfolio/#/
 
 </div>
 
+## 📫 How to reach me: 
+* ✉️ &nbsp; sebastian_velo@hotmail.com
+* 🔗 &nbsp; https://www.linkedin.com/in/sebastian-velo/
+* 💻  &nbsp;https://codepen.io/sebastianvelo
+* 💡 &nbsp; https://app.codesignal.com/profile/sebastianvel
 
 ### Thanks for reading my profile!
 <!--
