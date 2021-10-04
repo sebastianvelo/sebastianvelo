@@ -1,15 +1,21 @@
 # Hi there 👋  I'm Sebastian!
 
-#### 💻 I'm currently working as a Software Engineer at MercadoLibre 
+#### I'm currently working as a Software Engineer at MercadoLibre. I enjoy developing frontend as much as backend, so am able to learn and adapt to new environments quickly. I like to learn new languages and technologies in my spare time, and do projects with them.
 
 ## ⚡️ Portfolio
 https://sebastianvelo.github.io/portfolio/#/ 
 
-## 📊 My Stats  
-<div style="display:inline-flex">
+## 💻 My repositories  
+[![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=radical)](https://github.com/sebastianvelo/network)
+[![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
+[![IFDB](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb&theme=radical)](https://github.com/sebastianvelo/ifdb)
+[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=sebastianvelo&show_icons=true&locale=en" alt="sebastianvelo" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianvelo&show_icons=true&locale=en&layout=compact" alt="sebastianvelo" />
+## 📊 My stats
+<div style="display:flex">
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=sebastianvelo&show_icons=true&locale=en&theme=radical&count_private=true&hide_title=true" alt="sebastianvelo" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianvelo&show_icons=true&locale=en&layout=compact&theme=radical&hide=c" alt="sebastianvelo" />
 
 </div>
 
