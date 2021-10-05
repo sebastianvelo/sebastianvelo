@@ -20,9 +20,9 @@
 </div>
 
 ## How to reach me 📫 
-<a href="https://www.linkedin.com/in/sebastian-velo/"><img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr3_ijsHy7asI734QY6ixc9B-W_i28--VPQ&usqp=CAU" /></a>
-<a href="https://codepen.io/sebastianvelo"><img width="50" height="50" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-codepen-4550862_121336.png" /></a>
-<a href="https://app.codesignal.com/profile/sebastianvel"><img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCqYD9TtDp59IX0ShF5Jy2yanfla1Xeis-HQdKNMO6oCfOyOD2RSDOhFOZzsWiud1BjM&usqp=CAU" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/sebastian-velo/"><img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr3_ijsHy7asI734QY6ixc9B-W_i28--VPQ&usqp=CAU" /></a>
+<a target="_blank" href="https://codepen.io/sebastianvelo"><img width="50" height="50" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-codepen-4550862_121336.png" /></a>
+<a target="_blank" href="https://app.codesignal.com/profile/sebastianvel"><img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCqYD9TtDp59IX0ShF5Jy2yanfla1Xeis-HQdKNMO6oCfOyOD2RSDOhFOZzsWiud1BjM&usqp=CAU" /></a>
 ### sebastian_velo@hotmail.com
 
 ## Thanks for reading my profile!
