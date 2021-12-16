@@ -9,6 +9,7 @@
 [![IFDB-FE](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb-front-end&theme=radical)](https://github.com/sebastianvelo/ifdb-front-end)
 [![IFDB-BE](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb-back-end&theme=radical)](https://github.com/sebastianvelo/ifdb-back-end)
 [![TMDB.js](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tmdb.js&theme=radical)](https://github.com/sebastianvelo/tmdb.js)
+[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
 [![Face Detection](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=face-detection&theme=radical)](https://github.com/sebastianvelo/face-detection)
 [![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=radical)](https://github.com/sebastianvelo/social-network)
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
