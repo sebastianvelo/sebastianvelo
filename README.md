@@ -14,6 +14,7 @@
 [![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=radical)](https://github.com/sebastianvelo/social-network)
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
 [![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
+[![Photo Editor](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=photo-editor&theme=radical)](https://github.com/sebastianvelo/photo-editor)
 
 ## My stats 📊
 <div style="display:flex">
