@@ -1,6 +1,6 @@
 # Hi there 👋  I'm Sebastian!
 
-#### I'm currently working as a Software Engineer at MercadoLibre. I enjoy developing frontend as much as backend, so am able to learn and adapt to new environments quickly. I like to learn new languages and technologies in my spare time, and do projects with them.
+#### I'm currently working as a Software Engineer at MercadoLibre. I have experience working with Java and React, I enjoy developing frontend as much as backend, so am able to learn and adapt to new environments quickly. I like to learn new languages and technologies in my spare time, and do projects with them.
 
 ## My portfolio ⚡️ ️ 
 ### https://sebastianvelo.github.io/portfolio/#/ 
