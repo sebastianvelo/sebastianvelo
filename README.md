@@ -8,14 +8,15 @@
 ## My repositories 💻 
 [![IFDB-FE](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb-front-end&theme=radical)](https://github.com/sebastianvelo/ifdb-front-end)
 [![IFDB-BE](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb-back-end&theme=radical)](https://github.com/sebastianvelo/ifdb-back-end)
-[![TMDB.js](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tmdb.js&theme=radical)](https://github.com/sebastianvelo/tmdb.js)
+[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 [![Hiringroom](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hiringroom&theme=radical)](https://github.com/sebastianvelo/hiringroom)
 [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
+[![TMDB.js](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tmdb.js&theme=radical)](https://github.com/sebastianvelo/tmdb.js)
 [![Face Detection](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=face-detection&theme=radical)](https://github.com/sebastianvelo/face-detection)
 [![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=radical)](https://github.com/sebastianvelo/social-network)
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
-[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 [![Photo Editor](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=photo-editor&theme=radical)](https://github.com/sebastianvelo/photo-editor)
+
 
 ## My stats 📊
 <div style="display:flex">
