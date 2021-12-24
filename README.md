@@ -1,9 +1,9 @@
 # Hi there 👋  I'm Sebastian!
 
-#### I'm currently working as a Software Engineer at MercadoLibre. I have experience working with Java and React, I enjoy developing frontend as much as backend, so am able to learn and adapt to new environments quickly. I like to learn new languages and technologies in my spare time, and do projects with them.
+#### I'm currently working as a Software Engineer at Despegar. I have experience working with Java and React, I enjoy developing frontend as much as backend, so am able to learn and adapt to new environments quickly. I like to learn new languages and technologies in my spare time, and do projects with them.
 
 ## My portfolio ⚡️ ️ 
-### https://sebastianvelo.github.io/portfolio/#/ 
+### https://sebastian-velo.web.app/#/ 
 
 ## My repositories 💻 
 [![IFDB-FE](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb-front-end&theme=radical)](https://github.com/sebastianvelo/ifdb-front-end)
