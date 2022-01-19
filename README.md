@@ -23,7 +23,7 @@
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
 [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
 [![Photo Editor](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=photo-editor&theme=radical)](https://github.com/sebastianvelo/photo-editor)
-
+[![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hangman-py&theme=radical)](https://github.com/sebastianvelo/hangman-py)
 
 
 # How to reach me 📫 
