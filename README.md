@@ -2,8 +2,7 @@
 
 ### I'm currently working as a Software Engineer at Despegar. I have experience working with Java and React, I enjoy developing frontend as much as backend, so am able to learn and adapt to new environments quickly. I like to learn new languages and technologies in my spare time, and do projects with them.
 
-# My portfolio ⚡️ ️ 
-### https://sebastian-velo.web.app/#/ 
+### My portfolio ⚡️: https://sebastian-velo.web.app/#/ 
 
 # My stats 📊
 <div style="display:flex">
@@ -12,21 +11,34 @@
 </div>
 
 # My repositories 💻 
+## Fullstack projects
+
 [![Filmaholiks Frontend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=filmaholiks-frontend&theme=radical)](https://github.com/sebastianvelo/filmaholiks-frontend)
 [![Filmaholiks Backend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=filmaholiks-backend&theme=radical)](https://github.com/sebastianvelo/filmaholiks-backend)
 [![TMDB.js](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tmdb.js&theme=radical)](https://github.com/sebastianvelo/tmdb.js)
 
 [![Price comparator Frontend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=price-comparator-frontend&theme=radical)](https://github.com/sebastianvelo/price-comparator-frontend)
 [![Price comparator Backend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=price-comparator-backend&theme=radical)](https://github.com/sebastianvelo/price-comparator-backend)
-[![Tax calculator](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=calculadora-ganancias&theme=radical)](https://github.com/sebastianvelo/calculadora-ganancias)
 
-[![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
-[![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=radical)](https://github.com/sebastianvelo/social-network)
+## Frontend projects
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=portfolio&theme=radical)](https://github.com/sebastianvelo/portfolio)
 [![Hiringroom](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hiringroom&theme=radical)](https://github.com/sebastianvelo/hiringroom)
+[![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=radical)](https://github.com/sebastianvelo/social-network)
+[![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
+[![Tax calculator](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=calculadora-ganancias&theme=radical)](https://github.com/sebastianvelo/calculadora-ganancias)
+[![Next holiday](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=proximo-feriado&theme=radical)](https://github.com/sebastianvelo/proximo-feriado)
 
+## Backend projects
+[![Football data](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=football-data-backend&theme=radical)](https://github.com/sebastianvelo/football-data-backend)
+
+## Games
 [![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hangman-py&theme=radical)](https://github.com/sebastianvelo/hangman-py)
 [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
 [![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
+
+## Libraries & Extensions
+[![Dark mode](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=dark-mode-extension&theme=radical)](https://github.com/sebastianvelo/dark-mode-extension)
+[![Presentations](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=presentations-js&theme=radical)](https://github.com/sebastianvelo/presentations-js)
 
 # How to reach me 📫 
 <a target="_blank" href="https://www.linkedin.com/in/sebastian-velo/"><img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr3_ijsHy7asI734QY6ixc9B-W_i28--VPQ&usqp=CAU" /></a>
