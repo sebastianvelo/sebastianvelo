@@ -12,14 +12,20 @@
 </div>
 
 # My repositories 💻 
-[![IFDB-FE](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb-front-end&theme=radical)](https://github.com/sebastianvelo/ifdb-front-end)
-[![IFDB-BE](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ifdb-back-end&theme=radical)](https://github.com/sebastianvelo/ifdb-back-end)
+[![Filmaholiks Frontend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=filmaholiks-frontend&theme=radical)](https://github.com/sebastianvelo/filmaholiks-frontend)
+[![Filmaholiks Backend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=filmaholiks-backend&theme=radical)](https://github.com/sebastianvelo/filmaholiks-backend)
 [![TMDB.js](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tmdb.js&theme=radical)](https://github.com/sebastianvelo/tmdb.js)
-[![Calculadora de Ganancias](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=calculadora-ganancias&theme=radical)](https://github.com/sebastianvelo/calculadora-ganancias)
+
+[![Price comparator Frontend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=price-comparator-frontend&theme=radical)](https://github.com/sebastianvelo/price-comparator-frontend)
+[![Price comparator Backend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=price-comparator-backend&theme=radical)](https://github.com/sebastianvelo/price-comparator-backend)
+[![Tax calculator](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=calculadora-ganancias&theme=radical)](https://github.com/sebastianvelo/calculadora-ganancias)
+
 [![Hiringroom](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hiringroom&theme=radical)](https://github.com/sebastianvelo/hiringroom)
-[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 [![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=radical)](https://github.com/sebastianvelo/social-network)
+
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
+
+[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
 [![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hangman-py&theme=radical)](https://github.com/sebastianvelo/hangman-py)
 
