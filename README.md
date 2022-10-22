@@ -4,12 +4,6 @@
 
 ### My portfolio ⚡️: https://sebastian-velo.web.app/#/ 
 
-# My stats 📊
-<div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianvelo&show_icons=true&locale=en&theme=radical&count_private=true&hide_title=true" alt="sebastianvelo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianvelo&show_icons=true&locale=en&layout=compact&theme=radical&hide=c" alt="sebastianvelo" />
-</div>
-
 # My repositories 💻 
 ## Fullstack projects
 
@@ -27,18 +21,28 @@
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
 [![Tax calculator](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=calculadora-ganancias&theme=radical)](https://github.com/sebastianvelo/calculadora-ganancias)
 [![Next holiday](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=proximo-feriado&theme=radical)](https://github.com/sebastianvelo/proximo-feriado)
+[![Prode](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=prode-fe&theme=radical)](https://github.com/sebastianvelo/prode-fe)
 
 ## Backend projects
 [![Football data](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=football-data-backend&theme=radical)](https://github.com/sebastianvelo/football-data-backend)
+[![My ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=my-ecommerce-be&theme=radical)](https://github.com/sebastianvelo/my-ecommerce-be)
 
-## Games
+## Games & Apps
 [![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hangman-py&theme=radical)](https://github.com/sebastianvelo/hangman-py)
 [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
 [![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 
 ## Libraries & Extensions
+[![Ghost](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ghost&theme=radical)](https://github.com/sebastianvelo/ghost)
+[![Ghost documentation](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ghost-documentation&theme=radical)](https://github.com/sebastianvelo/ghost-documentation)
 [![Dark mode](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=dark-mode-extension&theme=radical)](https://github.com/sebastianvelo/dark-mode-extension)
 [![Presentations](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=presentations-js&theme=radical)](https://github.com/sebastianvelo/presentations-js)
+
+# My stats 📊
+<div style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianvelo&show_icons=true&locale=en&theme=radical&count_private=true&hide_title=true" alt="sebastianvelo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianvelo&show_icons=true&locale=en&layout=compact&theme=radical&hide=c" alt="sebastianvelo" />
+</div>
 
 # How to reach me 📫 
 <a target="_blank" href="https://www.linkedin.com/in/sebastian-velo/"><img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr3_ijsHy7asI734QY6ixc9B-W_i28--VPQ&usqp=CAU" /></a>
