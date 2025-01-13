@@ -21,16 +21,16 @@
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=radical)](https://github.com/sebastianvelo/chat-app)
 [![Tax calculator](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=calculadora-ganancias&theme=radical)](https://github.com/sebastianvelo/calculadora-ganancias)
 [![Next holiday](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=proximo-feriado&theme=radical)](https://github.com/sebastianvelo/proximo-feriado)
-[![Prode](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=prode-fe&theme=radical)](https://github.com/sebastianvelo/prode-fe)
+
+## Games & Apps
+[![Wikirdle](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=wikirdle&theme=radical)](https://github.com/sebastianvelo/wikirdle)
+[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
+[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
+[![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hangman-py&theme=radical)](https://github.com/sebastianvelo/hangman-py)
 
 ## Backend projects
 [![Football data](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=football-data-backend&theme=radical)](https://github.com/sebastianvelo/football-data-backend)
 [![My ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=my-ecommerce-be&theme=radical)](https://github.com/sebastianvelo/my-ecommerce-be)
-
-## Games & Apps
-[![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hangman-py&theme=radical)](https://github.com/sebastianvelo/hangman-py)
-[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
-[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 
 ## Libraries & Extensions
 [![Ghost](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ghost&theme=radical)](https://github.com/sebastianvelo/ghost)
