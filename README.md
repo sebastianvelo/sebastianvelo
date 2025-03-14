@@ -23,6 +23,8 @@
 [![Next holiday](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=proximo-feriado&theme=radical)](https://github.com/sebastianvelo/proximo-feriado)
 
 ## Games & Apps
+
+[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=particle-life&theme=radical)](https://github.com/sebastianvelo/particle-life)
 [![Wikirdle](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=wikirdle&theme=radical)](https://github.com/sebastianvelo/wikirdle)
 [![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=radical)](https://github.com/sebastianvelo/pixel-art)
 [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=radical)](https://github.com/sebastianvelo/tictactoe)
