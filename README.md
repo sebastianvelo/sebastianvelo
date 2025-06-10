@@ -8,15 +8,14 @@
 
 ## Games & Apps
 [![IdealResume](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=ideal-resume&theme=algolia)](https://github.com/sebastianvelo/ideal-resume)
-[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=particle-life&theme=algolia)](https://github.com/sebastianvelo/particle-life)
 [![Wikirdle](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=wikirdle&theme=algolia)](https://github.com/sebastianvelo/wikirdle)
+[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=particle-life&theme=algolia)](https://github.com/sebastianvelo/particle-life)
 [![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=pixel-art&theme=algolia)](https://github.com/sebastianvelo/pixel-art)
 [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tictactoe&theme=algolia)](https://github.com/sebastianvelo/tictactoe)
 [![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hangman-py&theme=algolia)](https://github.com/sebastianvelo/hangman-py)
 
 ## Fullstack projects
 [![Filmaholiks Frontend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=filmaholiks-frontend&theme=algolia)](https://github.com/sebastianvelo/filmaholiks-frontend)
-[![Filmaholiks Backend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=filmaholiks-backend&theme=algolia)](https://github.com/sebastianvelo/filmaholiks-backend)
 [![TMDB.js](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=tmdb.js&theme=algolia)](https://github.com/sebastianvelo/tmdb.js)
 
 [![Price comparator Frontend](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=price-comparator-frontend&theme=algolia)](https://github.com/sebastianvelo/price-comparator-frontend)
@@ -25,7 +24,6 @@
 ## Frontend projects
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=portfolio&theme=algolia)](https://github.com/sebastianvelo/portfolio)
 [![Hiringroom](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=hiringroom&theme=algolia)](https://github.com/sebastianvelo/hiringroom)
-[![Social Network](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=social-network&theme=algolia)](https://github.com/sebastianvelo/social-network)
 [![Chat app](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=chat-app&theme=algolia)](https://github.com/sebastianvelo/chat-app)
 [![Tax calculator](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=calculadora-ganancias&theme=algolia)](https://github.com/sebastianvelo/calculadora-ganancias)
 [![Next holiday](https://github-readme-stats.vercel.app/api/pin/?username=sebastianvelo&repo=proximo-feriado&theme=algolia)](https://github.com/sebastianvelo/proximo-feriado)
